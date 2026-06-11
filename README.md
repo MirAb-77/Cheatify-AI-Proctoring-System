@@ -364,7 +364,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 <div align="center">
 
-Made with ❤️ as a Final Year Project
 
 ⭐ Star this repo if you found it useful!
 
